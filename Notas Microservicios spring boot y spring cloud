@@ -1,22 +1,4 @@
-Introducción
-
 Microservicios
-Es un enfoque de desarrollo compuestas en servicios independientes comunicados mediante api rest
-
-Características:
-Son autónomos
-Especializados
-Registro y auto-descubrimiento de servicios
-Escalado flexible
-Tolerancia a fallos
-Balanceos de cargar
-Configuración centralizada
-Libertad tecnológica
-Agilidad y equipos más pequeños
-Ciclos de desarrollo más cortos
-Código reutilizable
-
-
 
 Un microservicio es un componente pequeño y autónomo que colaboran entre si
 
@@ -30,10 +12,15 @@ Características
 •	Configuración centralizada 
 
 
-
-
 Ventajas
 •	Nueva tecnología y adopción de procesos
 •	Reducción de costos
 •	Ciclos de liberación más rápidos
 •	Equipos de desarrollo más pequeños
+
+
+Para que eureka reconozca el servicio cada servicio debe de tener un identificador, para poder acceder por nombre y no por balanceo y puerto, se configura en el application properties 
+spring.application.name=nombreservicio
+
+Para cambiar el puerto del servidor embebido
+server.port=numerodepuertodisponible
