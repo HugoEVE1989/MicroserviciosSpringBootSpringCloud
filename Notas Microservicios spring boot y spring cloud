@@ -1,0 +1,17 @@
+Introducción
+
+Microservicios
+Es un enfoque de desarrollo compuestas en servicios independientes comunicados mediante api rest
+
+Características:
+Son autónomos
+Especializados
+Registro y auto-descubrimiento de servicios
+Escalado flexible
+Tolerancia a fallos
+Balanceos de cargar
+Configuración centralizada
+Libertad tecnológica
+Agilidad y equipos más pequeños
+Ciclos de desarrollo más cortos
+Código reutilizable
