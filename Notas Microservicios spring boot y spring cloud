@@ -15,3 +15,25 @@ Libertad tecnológica
 Agilidad y equipos más pequeños
 Ciclos de desarrollo más cortos
 Código reutilizable
+
+
+
+Un microservicio es un componente pequeño y autónomo que colaboran entre si
+
+Características
+•	Función única
+•	Independientes
+•	Registro y auto-descubrimiento de servicios
+•	Auto escalado y agilidad
+•	Confiabilidad y tolerancia a fallos
+•	Balanceo de cargas
+•	Configuración centralizada 
+
+
+
+
+Ventajas
+•	Nueva tecnología y adopción de procesos
+•	Reducción de costos
+•	Ciclos de liberación más rápidos
+•	Equipos de desarrollo más pequeños
