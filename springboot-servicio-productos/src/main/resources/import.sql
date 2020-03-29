@@ -1,6 +1,7 @@
-INSERT INTO productos (nombre, precio, create_at) VALUES ('Panasonic', 800, NOW());
-INSERT INTO productos (nombre, precio, create_at) VALUES ('Sony', 700, NOW());
-INSERT INTO productos (nombre, precio, create_at) VALUES ('Apple', 1800, NOW());
-INSERT INTO productos (nombre, precio, create_at) VALUES ('Nike', 900, NOW());
-INSERT INTO productos (nombre, precio, create_at) VALUES ('Adidas', 800, NOW());
-INSERT INTO productos (nombre, precio, create_at) VALUES ('Bianchi', 500, NOW());
+INSERT INTO productos (nombre, precio, create_at) VALUES ('Panasonic', 800, now());
+INSERT INTO productos (nombre, precio, create_at) VALUES ('EKT', 700, now());
+INSERT INTO productos (nombre, precio, create_at) VALUES ('Apple', 1800, now());
+INSERT INTO productos (nombre, precio, create_at) VALUES ('Xiaomi', 1000, now());
+INSERT INTO productos (nombre, precio, create_at) VALUES ('Samsung', 1200, now());
+INSERT INTO productos (nombre, precio, create_at) VALUES ('LG', 600, now());
+INSERT INTO productos (nombre, precio, create_at) VALUES ('Dell', 3000, now());

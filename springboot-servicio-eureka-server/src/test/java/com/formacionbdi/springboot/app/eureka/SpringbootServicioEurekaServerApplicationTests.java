@@ -1,10 +1,10 @@
-package com.formacionbdi.springboot.app.item;
+package com.formacionbdi.springboot.app.eureka;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringbootServicioItemApplicationTests {
+class SpringbootServicioEurekaServerApplicationTests {
 
 	@Test
 	void contextLoads() {
